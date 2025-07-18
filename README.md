@@ -15,7 +15,7 @@ Para resolver isso, busquei aprender sobre Nginx e volumes no Docker, estruturan
 
 1) Clone o repositório:
 ```bash
-git clone ...
+git clone git@github.com:iOnilec/mdl_nginx.git
 ```
 
 2) Crie a pasta de dados do moodle na raiz do repositório:
