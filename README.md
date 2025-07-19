@@ -7,7 +7,6 @@ Na empresa em que trabalho, recebi a task de migrar o Moodle para rodar em Nginx
 Para resolver isso, busquei aprender sobre Nginx e volumes no Docker, estruturando uma stack limpa e eficiente para subir o Moodle de forma organizada, rápida e com fácil manutenção.
 
 ## Tecnologias Utilizadas
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
